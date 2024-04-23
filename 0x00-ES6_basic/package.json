@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "0-main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npm start"
+    "dev": "node 0-main.js"
   },
   "repository": {
     "type": "git",
